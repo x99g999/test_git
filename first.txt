@@ -1,6 +1,10 @@
-1.Gitの練習
-2.ワークフローの学習
-
+﻿1.Gitの練習
+2.ワークフローの学習 
+3.学習したコマンド
+  git add
+  git commit
 1.rensyuu
 2.gakusyuu
-
+3.command
+  git add
+  git commit
